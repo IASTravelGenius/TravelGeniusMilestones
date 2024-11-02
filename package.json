@@ -1,9 +1,12 @@
 {
   "name": "TravelGenius",
   "version": "1.0.0",
+  "homepage": "https://robert12-git.github.io/TravelGeniusMilestones",
   "description": "A web platform offering tailored travel recommendations and location-specific ratings based on unique parameters for each country and region, helping users discover top tourist destinations.",
   "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build --add",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }

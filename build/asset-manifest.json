@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TravelGeniusMilestones/static/css/main.ab63500f.css",
+    "main.js": "/TravelGeniusMilestones/static/js/main.6dbd1cd2.js",
+    "static/media/daria.jpg": "/TravelGeniusMilestones/static/media/daria.88b44aaac22a07d56689.jpg",
+    "static/media/lungu.jpeg": "/TravelGeniusMilestones/static/media/lungu.795a2fa8dc9d374b4889.jpeg",
+    "static/media/radu.jpeg": "/TravelGeniusMilestones/static/media/radu.9df4fbccf4387d7aa169.jpeg",
+    "static/media/anghel.jpeg": "/TravelGeniusMilestones/static/media/anghel.7ffe7708b580770d0d8c.jpeg",
+    "static/media/raul.jpeg": "/TravelGeniusMilestones/static/media/raul.bbb6cbb0b47a7481985a.jpeg",
+    "static/media/ciurea.jpeg": "/TravelGeniusMilestones/static/media/ciurea.550ee6a487eb26597ef5.jpeg",
+    "index.html": "/TravelGeniusMilestones/index.html",
+    "main.ab63500f.css.map": "/TravelGeniusMilestones/static/css/main.ab63500f.css.map",
+    "main.6dbd1cd2.js.map": "/TravelGeniusMilestones/static/js/main.6dbd1cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab63500f.css",
+    "static/js/main.6dbd1cd2.js"
+  ]
+}
