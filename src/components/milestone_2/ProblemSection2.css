@@ -1,0 +1,27 @@
+.problem-section2 {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.problem-section2 h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.problem-section2 p {
+    font-size: 16px;
+    color: #4f5d75;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.problem-section2 p strong {
+    font-weight: bold;
+    color: #2c3e50;
+}

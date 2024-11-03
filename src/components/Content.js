@@ -1,5 +1,6 @@
 import React from 'react';
 import Milestone1Content from './milestone_1/Milestone1Content';
+import Milestone2Content from './milestone_2/Milestone2Content'
 import './Content.css';
 
 const Content = () => {
@@ -9,8 +10,7 @@ const Content = () => {
         <Milestone1Content />
       </section>
       <section id="milestone2">
-        <h1>Milestone 2</h1>
-        <p>This is the Milestone 2 section. Customize this content as per your requirements.</p>
+        <Milestone2Content />
       </section>
       {/* Add more sections as needed */}
     </div>
