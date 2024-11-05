@@ -29,11 +29,6 @@ const teamMembers = [
     image: lungu, // Replace with the correct path to the image
   },
   {
-    name: 'Raul Voinea',
-    role: 'Marketing Manager',
-    image: raul, // Replace with the correct path to the image
-  },
-  {
     name: 'Radu Serb',
     role: 'QA Engineer',
     image: radu, // Replace with the correct path to the image
