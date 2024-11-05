@@ -2,7 +2,8 @@ import React from 'react';
 import './Milestone2Content.css';
 import ProblemSection2 from './ProblemSection2';
 import SolutionSection2 from './SolutionSection2';
-import CustomerDiscoverySection from './CustomerDiscoverySection'; 
+import CustomerDiscoverySection from './CustomerDiscoverySection';
+import CustomerDiscoveryProcessSection from './CustomerDiscoveryProcessSection';
 
 const Milestone1Content = () => (
   <div className="milestone2-content">
@@ -10,6 +11,7 @@ const Milestone1Content = () => (
     <ProblemSection2 />
     <SolutionSection2 />
     <CustomerDiscoverySection />
+    <CustomerDiscoveryProcessSection />
   </div>
 );
 
