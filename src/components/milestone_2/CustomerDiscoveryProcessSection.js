@@ -30,6 +30,19 @@ const CustomerDiscoveryProcessSection = () => {
         <li>"How many resources or apps do you use to plan a tour? Can you tell me what that process is like?"</li>
       </ul>
 
+      <h3>Additional Evidence</h3>
+      <p>
+        As part of our customer discovery process, we collected detailed conversations with participants through various channels. You can access the full collection of these conversations using the link below:
+      </p>
+      <a 
+        href="https://drive.google.com/drive/folders/1XdHIyW1QIM1a9W_p57Sn93bI-oQtxRIO?usp=sharing" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="drive-link"
+      >
+        View Customer Discovery Conversations
+      </a>
+
       <h3>What We Found Out:</h3>
       <p>
         Through these interviews and discussions, we identified several common pain points:

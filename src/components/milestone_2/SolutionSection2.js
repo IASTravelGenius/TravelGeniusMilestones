@@ -8,7 +8,7 @@ const SolutionSection2 = () => {
         <u>What we thought is a solution for the problem:</u>
       </h2>
       <p>
-        With this problem in mind, we envisioned Traveling Advisor as a platform that consolidates travel data and presents it in a customized way. Our solution revolves around:
+        With this problem in mind, we envisioned TravelGenius as a platform that consolidates travel data and presents it in a customized way. Our solution revolves around:
       </p>
       <ul>
         <li><strong>Personalized Recommendations</strong>: Tailoring destination suggestions based on user preferences, past travel reviews, and criteria like safety, air quality, and affordability.</li>
