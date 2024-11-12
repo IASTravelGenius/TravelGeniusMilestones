@@ -4,7 +4,8 @@ import './Sidebar.css';
 const Sidebar = ({ setSelectedSection }) => {
   const sections = [
     { name: 'Milestone 1', id: 'milestone1' },
-    { name: 'Milestone 2', id: 'milestone2' }
+    { name: 'Milestone 2', id: 'milestone2' },
+    { name: 'Milestone 3', id: 'milestone3' }
   ];
 
   return (

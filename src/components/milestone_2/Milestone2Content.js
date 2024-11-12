@@ -5,7 +5,7 @@ import SolutionSection2 from './SolutionSection2';
 import CustomerDiscoverySection from './CustomerDiscoverySection';
 import CustomerDiscoveryProcessSection from './CustomerDiscoveryProcessSection';
 
-const Milestone1Content = () => (
+const Milestone2Content = () => (
   <div className="milestone2-content">
     <h1 className="milestone-title">Milestone 2</h1>
     <ProblemSection2 />
@@ -15,4 +15,4 @@ const Milestone1Content = () => (
   </div>
 );
 
-export default Milestone1Content;
+export default Milestone2Content;
