@@ -2,7 +2,6 @@ import React from 'react';
 import './TeamSection.css';
 import ciurea from '../../images/ciurea.jpeg'
 import lungu from '../../images/lungu.jpeg'
-import raul from '../../images/raul.jpeg'
 import radu from '../../images/radu.jpeg'
 import anghel from '../../images/anghel.jpeg'
 import daria from '../../images/daria.jpg'
