@@ -4,7 +4,7 @@ import './FigmaPrototypeEmbed.css';
 const FigmaPrototypeEmbed = ({ title, embedUrl }) => {
   return (
     <div className="figma-prototype-embed">
-      <h2>{title}</h2>
+      <h2><del>{title}</del> - Outdated</h2>
       <iframe
         title="Figma Prototype"
         src={embedUrl}
