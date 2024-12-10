@@ -1,5 +1,6 @@
 import React from 'react';
 import './RevenueStreamsSection.css';
+import PlansTable from './PlansTable';
 
 const RevenueStreamsSection = () => (
   <div className="revenue-streams-section">
@@ -12,6 +13,7 @@ const RevenueStreamsSection = () => (
         premium version.
       </p>
     </div>
+    <PlansTable />
   </div>
 );
 
