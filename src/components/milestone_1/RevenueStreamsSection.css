@@ -34,3 +34,20 @@
     font-size: 16px;
     line-height: 1.5;
 }
+
+.plans-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .plans-table th, .plans-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .plans-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
