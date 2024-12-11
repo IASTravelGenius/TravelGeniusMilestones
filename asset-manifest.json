@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/TravelGeniusMilestones/static/css/main.2e81e1be.css",
-    "main.js": "/TravelGeniusMilestones/static/js/main.d092b1da.js",
+    "main.css": "/TravelGeniusMilestones/static/css/main.66e01fac.css",
+    "main.js": "/TravelGeniusMilestones/static/js/main.1b4bf19a.js",
     "static/media/daria.jpg": "/TravelGeniusMilestones/static/media/daria.88b44aaac22a07d56689.jpg",
     "static/media/user_persona.png": "/TravelGeniusMilestones/static/media/user_persona.e7294bf78b7ce995b2fe.png",
     "static/media/lungu.jpeg": "/TravelGeniusMilestones/static/media/lungu.795a2fa8dc9d374b4889.jpeg",
     "static/media/radu.jpeg": "/TravelGeniusMilestones/static/media/radu.9df4fbccf4387d7aa169.jpeg",
-    "static/media/user_flows.png": "/TravelGeniusMilestones/static/media/user_flows.223210588b64358c6e85.png",
+    "static/media/user_flows.png": "/TravelGeniusMilestones/static/media/user_flows.005f6aab3a6dfe0bf16b.png",
+    "static/media/user_stories.png": "/TravelGeniusMilestones/static/media/user_stories.308903883d3e57446a36.png",
     "static/media/anghel.jpeg": "/TravelGeniusMilestones/static/media/anghel.7ffe7708b580770d0d8c.jpeg",
-    "static/media/user_stories.png": "/TravelGeniusMilestones/static/media/user_stories.cbcc3aa854d87f76b106.png",
+    "static/media/newsletter.png": "/TravelGeniusMilestones/static/media/newsletter.7418ae3f77bd16af2f0e.png",
     "static/media/ciurea.jpeg": "/TravelGeniusMilestones/static/media/ciurea.550ee6a487eb26597ef5.jpeg",
     "index.html": "/TravelGeniusMilestones/index.html",
-    "main.2e81e1be.css.map": "/TravelGeniusMilestones/static/css/main.2e81e1be.css.map",
-    "main.d092b1da.js.map": "/TravelGeniusMilestones/static/js/main.d092b1da.js.map"
+    "main.66e01fac.css.map": "/TravelGeniusMilestones/static/css/main.66e01fac.css.map",
+    "main.1b4bf19a.js.map": "/TravelGeniusMilestones/static/js/main.1b4bf19a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e81e1be.css",
-    "static/js/main.d092b1da.js"
+    "static/css/main.66e01fac.css",
+    "static/js/main.1b4bf19a.js"
   ]
 }
