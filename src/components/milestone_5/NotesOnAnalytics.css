@@ -1,4 +1,4 @@
-.face-to-face-interviews {
+.notes-analytics {
     margin-bottom: 20px;
     padding: 20px;
     background-color: #ffffff;
@@ -7,31 +7,28 @@
     text-align: center;
 }
 
-.face-to-face-interviews h2 {
+.notes-analytics h2 {
     font-size: 24px;
     color: #2c3e50;
     margin-bottom: 10px;
 }
 
-.face-to-face-interviews p {
+.notes-analytics h4 {
+    font-size: 18px;
+    color: #4f5d75;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.notes-analytics p {
     font-size: 16px;
     color: #4f5d75;
     line-height: 1.6;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    text-align: left;
 }
 
-.interview-link {
-    font-size: 18px;
-    color: #1a73e8;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.interview-link:hover {
-    text-decoration: underline;
-}
-
-.facetoface-item {
+.notes-analytics-item {
     margin-bottom: 15px;
     padding: 15px;
     background-color: #f9fafb;
@@ -40,19 +37,19 @@
     text-align: left;
 }
 
-.facetoface-item h3 {
+.notes-analytics-item h3 {
     color: #2c3e50;
     font-size: 18px;
     margin-bottom: 10px;
 }
 
-.facetoface-item p {
+.notes-analytics-item p {
     color: #4f5d75;
     font-size: 16px;
     line-height: 1.5;
 }
 
-.facetoface-item li {
+.notes-analytics-item li {
     color: #4f5d75;
     margin-bottom: 5px;
 }

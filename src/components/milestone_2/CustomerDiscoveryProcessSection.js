@@ -121,7 +121,7 @@ const CustomerDiscoveryProcessSection = () => {
         </ul>
       </div>
       <div className="customer-discovery-item">
-        <h3>Personalization of Destination Recommendations</h3>
+        <h3>Real-Time News and Updates</h3>
         <ul>
           <li>Access to timely information such as safety alerts, attraction schedules, and local events was a highly valued feature.</li>
           <li>Several participants noted missed opportunities or challenges due to the absence of reliable real-time updates.</li>
