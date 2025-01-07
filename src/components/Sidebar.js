@@ -8,6 +8,7 @@ const Sidebar = ({ setSelectedSection }) => {
     { name: 'Milestone 3', id: 'milestone3' },
     { name: 'Milestone 4', id: 'milestone4' },
     { name: 'Milestone 5', id: 'milestone5' },
+    { name: 'Milestone 6', id: 'milestone6' },
   ];
 
   return (
