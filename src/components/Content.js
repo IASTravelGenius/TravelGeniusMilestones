@@ -6,6 +6,7 @@ import Milestone4Content from './milestone_4/Milestone4Content'
 import Milestone5Content from './milestone_5/Milestone5Content'
 import './Content.css';
 import Milestone6Content from "./milestone_6/Milestone6Content";
+import Milestone7Content from "./milestone_7/MIlestone7Content";
 
 const Content = () => {
   return (
@@ -27,6 +28,9 @@ const Content = () => {
           </section>
           <section id="milestone6">
               <Milestone6Content/>
+          </section>
+          <section id="milestone7">
+              <Milestone7Content/>
           </section>
       </div>
   );
