@@ -6,21 +6,18 @@
   /* Center elements in the column on mobile */
 }
 
-.toggle-button {
+.toggle-sidebar-button {
   display: none;
   /* Hidden by default (for larger screens) */
   position: fixed;
   top: 10px;
   left: 10px;
-  font-size: 20px;
-  background: rgba(44, 62, 80, 0.8);
+  font-size: 24px; /* Adjust font size for burger menu icon */
+  background: none;
   border: none;
-  color: white;
+  color: #2c3e50;
   cursor: pointer;
-  padding: 8px 10px;
-  border-radius: 4px;
   z-index: 1000;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .content {
@@ -63,39 +60,31 @@
     /* Ensure the sidebar is visible */
   }
 
-    .toggle-button {
-      display: block;
-    }
+  .toggle-sidebar-button {
+    display: none;
+  }
 }
 
 /* Hide sidebar and show toggle button on smaller screens */
 @media (max-width: 768px) {
   .mobile-title {
     display: block;
-    /* Show title on mobile */
   }
 
-  /* Center content on smaller screens */
-  .content {
-    padding: 20px;
-    /* Adjust padding for mobile view */
-    width: 100%;
-  }
-
-  /* Ensure sidebar takes up full width on mobile when open */
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    z-index: 1000;
+  .toggle-sidebar-button {
     display: block;
   }
 
-  /* Adjust the layout on mobile */
-  .app-container {
-    flex-direction: column;
+  .content {
+    margin-left: 0;
+  }
+
+  .sidebar-open .content {
+    margin-left: 250px; /* Adjust based on sidebar width */
+  }
+
+  .sidebar-closed .content {
+    margin-left: 0;
   }
 }
 
