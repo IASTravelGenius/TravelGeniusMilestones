@@ -2,6 +2,7 @@ import React from "react";
 import "./SalePlan.css";
 import image1 from "../../images/report1.png";
 import image2 from "../../images/report2.png";
+import image3 from "../../images/report3.png";
 
 const SalePlan = () => {
     return (
@@ -115,6 +116,26 @@ const SalePlan = () => {
                     <p>Based on the <strong>PostHog analysis</strong>, the majority of users accessed the platform through Instagram, indicating that it is a highly effective channel for promotion.</p>
                     <img src={image2} alt="Report 2" className="sale-plan-image"/>
                     <p>Moreover, mobile users experienced a more challenging navigation flow, highlighting the need to update and optimize the UI for mobile devices.</p>
+                    <img src={image3} alt="Report 3" className="sale-plan-image"/>
+                    <h3>Analysis of User Flow:</h3>
+                    <ol>
+                        <li><strong>Landing Page (100%) - </strong>All <strong>61 users</strong> started here, showing strong initial interest.</li>
+                        <li><strong>Subscribe to News (98%) – </strong><strong>60 users</strong> moved forward with minimal drop-off (1 user).</li>
+                        <li><strong>Plan Trip (69%) - </strong><strong>42 users</strong> continued, but <strong>18 users</strong> (30%) dropped off. We may need to simplify this step.</li>
+                        <li><strong>Destination Suggestion (67%) - </strong><strong>41 users</strong> progressed with only 1 drop-off, indicating good engagement.</li>
+                        <li><strong>Choose Date Interval (59%) - </strong><strong>36 users</strong>, but 5 dropped off (12%). This step might need clearer instructions.</li>
+                        <li><strong>Food Choice (57%) - </strong><strong>35 users</strong> stayed engaged, but 1 dropped off. Food suggestions are working, but we can improve further.</li>
+                        <li><strong>Result Page (49%) - </strong><strong>30 users</strong> reached the end, though 5 dropped off (14%). We may need to highlight the value of the results more effectively.</li>
+                    </ol>
+                </div>
+                <div className="sale-plan-item2">
+                    <h3>Next Steps:</h3>
+                    <ul>
+                        <li>Simplify the Plan Trip and Date Selection steps.</li>
+                        <li>Enhance food recommendations to keep users engaged.</li>
+                        <li>Optimize the Result Page to reduce drop-offs.</li>
+                        <li>Gather feedback and analyze session recordings for deeper insights.</li>
+                    </ul>
                 </div>
             </div>
         </div>
