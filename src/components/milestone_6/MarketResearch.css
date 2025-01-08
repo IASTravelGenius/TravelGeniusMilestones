@@ -1,0 +1,78 @@
+.market-research {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.market-research h2 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.market-research h4 {
+    font-size: 18px;
+    color: #4f5d75;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.market-research p {
+    font-size: 16px;
+    color: #4f5d75;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.market-research-item {
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #f9fafb;
+    border-radius: 8px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.market-research-item h3 {
+    color: #2c3e50;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.market-research-item p {
+    color: #4f5d75;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.market-research-item li {
+    color: #4f5d75;
+    margin-bottom: 5px;
+}
+
+.table-container {
+    width: 95%;
+    margin: 20px auto;
+    overflow-x: auto;
+}
+
+.estimation-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.estimation-table th, .estimation-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.estimation-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
