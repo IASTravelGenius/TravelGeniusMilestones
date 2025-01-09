@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TravelGeniusMilestones/static/css/main.3bae913d.css",
-    "main.js": "/TravelGeniusMilestones/static/js/main.f470ca31.js",
+    "main.css": "/TravelGeniusMilestones/static/css/main.d830340f.css",
+    "main.js": "/TravelGeniusMilestones/static/js/main.6cdeb373.js",
     "static/media/daria.jpg": "/TravelGeniusMilestones/static/media/daria.88b44aaac22a07d56689.jpg",
     "static/media/user_persona.png": "/TravelGeniusMilestones/static/media/user_persona.e7294bf78b7ce995b2fe.png",
     "static/media/mvp4.png": "/TravelGeniusMilestones/static/media/mvp4.455bd38521320251357a.png",
@@ -19,11 +19,11 @@
     "static/media/report1.png": "/TravelGeniusMilestones/static/media/report1.139de0f77727c7ed961e.png",
     "static/media/report3.png": "/TravelGeniusMilestones/static/media/report3.0544be790eed7e434893.png",
     "index.html": "/TravelGeniusMilestones/index.html",
-    "main.3bae913d.css.map": "/TravelGeniusMilestones/static/css/main.3bae913d.css.map",
-    "main.f470ca31.js.map": "/TravelGeniusMilestones/static/js/main.f470ca31.js.map"
+    "main.d830340f.css.map": "/TravelGeniusMilestones/static/css/main.d830340f.css.map",
+    "main.6cdeb373.js.map": "/TravelGeniusMilestones/static/js/main.6cdeb373.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bae913d.css",
-    "static/js/main.f470ca31.js"
+    "static/css/main.d830340f.css",
+    "static/js/main.6cdeb373.js"
   ]
 }
