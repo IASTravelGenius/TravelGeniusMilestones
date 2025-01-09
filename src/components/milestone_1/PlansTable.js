@@ -16,22 +16,22 @@ const PlansTable = () => (
         <td>✅ Yes</td>
       </tr>
       <tr>
-        <td>Hidden Gems Discovery</td>
+        <td>Hidden Culinary Gems Discovery</td>
         <td>✅ Limited Access</td>
         <td>✅ Full Access</td>
       </tr>
       <tr>
-        <td>Real-Time Safety Alerts</td>
-        <td>✅ Included</td>
-        <td>✅ Included</td>
+        <td><del>Real-Time Safety Alerts</del></td>
+        <td><del>✅ Included</del></td>
+        <td><del>✅ Included</del></td>
       </tr>
       <tr>
-        <td>Crowd-Level Insights</td>
-        <td>❌ Not Included</td>
-        <td>✅ Included</td>
+        <td><del>Crowd-Level Insights</del></td>
+        <td><del>❌ Not Included</del></td>
+        <td><del>✅ Included</del></td>
       </tr>
       <tr>
-        <td>Personalized Travel Itineraries</td>
+        <td>Personalized Food Travel Recommendations</td>
         <td>❌ Basic Suggestions Only</td>
         <td>✅ Fully Customized Itineraries</td>
       </tr>
